@@ -1,15 +1,15 @@
 [
   {
     "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-    "Title": "Excel Quick Start",
-    "Image": "images/playlists/excel_quick_start.png",
+    "Title": "Visio Quick Start",
+    "Image": "images/categories/visio.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "TechnologyId": "1001",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "Get started quickly with the Excel Quick Start guide. Learn how to create a workbook, enter data, save your workbook to OneDrive, automatically fill a column with Flash Fill, quickly calculate with AutoSum, create a chart, or use conditional formatting with Quick Analysis, freeze the top row, share your workbook to collaborate with others, and set up your mobile apps.",
+    "CatId": "1002",
+    "Description": "Get started with Visio.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
