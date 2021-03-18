@@ -9,5 +9,38 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+    {
+    "Id": "2b9cb32f-98fe-49ed-bd6a-d763e70e667c",
+    "Title": "Add and Connect Shapes",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/2b9cb32f-98fe-49ed-bd6a-d763e70e667c?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+    {
+    "Id": "15412a4f-c59a-4fe0-8dd4-d466e6250137",
+    "Title": "Format in Visio",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/15412a4f-c59a-4fe0-8dd4-d466e6250137?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+    {
+    "Id": "4f7a008d-9226-45c4-a5a5-6d34f24c4750",
+    "Title": "Learn More",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/4f7a008d-9226-45c4-a5a5-6d34f24c4750?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
   ]
