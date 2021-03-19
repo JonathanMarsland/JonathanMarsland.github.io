@@ -196,5 +196,170 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+     "Id": "6d5d451a-f46d-4fd5-a359-1032672a1e7c",
+    "Title": "Snap to guides to lay out a drawing",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/6d5d451a-f46d-4fd5-a359-1032672a1e7c?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+     "Id": "81502ef3-6cac-423e-b4f1-1c19a5126e70",
+    "Title": "Edit your drawing using the Drawing Explorer window",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/81502ef3-6cac-423e-b4f1-1c19a5126e70?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+     "Id": "05c24456-67bf-47f7-b5dc-d5caa9974f19",
+    "Title": "Change the Drawing Scale",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/05c24456-67bf-47f7-b5dc-d5caa9974f19?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+    {
+     "Id": "361b4dab-d72a-489c-854d-58caef39da6a",
+    "Title": "Add a table to a drawing",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/361b4dab-d72a-489c-854d-58caef39da6a?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+   {
+        "Id": "bf5c5262-0688-4306-a1ac-748e406b0e4f",
+    "Title": "Copy pages and shapes in a Visio drawing",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/bf5c5262-0688-4306-a1ac-748e406b0e4f?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+        "Id": "14d5b04b-2894-4d4e-9718-a0d86f53ff75",
+    "Title": "Add a header or footer in Visio",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/14d5b04b-2894-4d4e-9718-a0d86f53ff75?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+        "Id": "fbe35298-47e4-4db9-97fe-d3766d9ae727",
+    "Title": "Add a background or watermark in Visio",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/fbe35298-47e4-4db9-97fe-d3766d9ae727?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+        "Id": "be705c73-e01a-4d1d-9840-e9106057b547",
+    "Title": "Add a page border or title",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/be705c73-e01a-4d1d-9840-e9106057b547?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+        "Id": "9faf9f56-6c4c-44ac-98c2-4f942ded00ba",
+    "Title": "Change the ruler measurement units in Visio",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/9faf9f56-6c4c-44ac-98c2-4f942ded00ba?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+        "Id": "8774ff39-c24d-4c03-a6ff-934a9e770cb9",
+    "Title": "Show, hide, or change the grid",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/8774ff39-c24d-4c03-a6ff-934a9e770cb9?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+        "Id": "546fd424-7685-47da-bf9c-e199b8fdca53",
+    "Title": "Specify dimensions by using the Size & Position window",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/546fd424-7685-47da-bf9c-e199b8fdca53?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+        "Id": "98fb5a5a-baab-41f6-b838-67c031ffa656",
+    "Title": "Show size or dimensions of shapes in Visio",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/98fb5a5a-baab-41f6-b838-67c031ffa656?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+        "Id": "94dadb54-f6b1-45f5-9795-c3ec2a1f8671",
+    "Title": "Adjust snap strength or turn snap off",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/94dadb54-f6b1-45f5-9795-c3ec2a1f8671?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+        "Id": "9953bb53-26bf-4995-8c96-ef8674c16c15",
+    "Title": "Draw lines and shapes with the Pencil, Line, Arc, or Freeform tools ",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/9953bb53-26bf-4995-8c96-ef8674c16c15?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+        "Id": "3f260f1e-d68b-4d98-b0d3-dcabca9d0dd2",
+    "Title": "Measure the distance between two points",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/3f260f1e-d68b-4d98-b0d3-dcabca9d0dd2?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
   ]
