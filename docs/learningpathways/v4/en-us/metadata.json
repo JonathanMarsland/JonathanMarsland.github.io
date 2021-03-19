@@ -13,21 +13,13 @@
   "Categories": [
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Products",
+      "Name": "Visio",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft",
       "SubCategories": [
-        {
-          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-          "Name": "Visio",
-          "Image": "images/categories/visio.png",
-          "TechnologyId": "1001",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": [
-                          {
+       {
               "Id": "46589138-0dde-4ea5-b9a1-313481a8eb07",
               "Name": "Getting Started",
               "Image": "images/categories/visio.png",
@@ -55,8 +47,6 @@
               "SubCategories": []
             }
           ]
-        }
-      ]
     }
   ],
   "Audiences": [
