@@ -307,7 +307,26 @@
           "TechnologyId": "1001",
           "SubjectId": null,
           "Source": "Microsoft",
-          "SubCategories": []
+          "SubCategories": [
+           {
+              "Id": "4000",
+              "Name": "Collaborate",
+              "Image": "images/categories/visio.png",
+              "TechnologyId": "1001",
+              "SubjectId": null,
+              "Source": "Microsoft",
+              "SubCategories": []
+            },
+              {
+              "Id": "4001",
+              "Name": "Format Pages",
+              "Image": "images/categories/visio.png",
+              "TechnologyId": "1001",
+              "SubjectId": null,
+              "Source": "Microsoft",
+              "SubCategories": []
+            }
+          ]
         }
       ]
     }
