@@ -365,8 +365,8 @@
    {
     "Id": "9acfe781-ae7e-43e5-ad69-9f3f89d0cf7c",
     "Title": "Create a shape",
-    "Description": "https://support.office.com/en-us/client/9acfe781-ae7e-43e5-ad69-9f3f89d0cf7c?embed=true&ns=trainingservices&version=1",
-    "Url": "",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/9acfe781-ae7e-43e5-ad69-9f3f89d0cf7c?embed=true&ns=trainingservices&version=1",
     "TechnologyId": "1001",
     "SubjectId": "",
     "Source": "Microsoft",
