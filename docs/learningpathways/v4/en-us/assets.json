@@ -75,5 +75,38 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+        {
+    "Id": "3b85674a-9b85-40cf-b5a8-b6413c1ebb3a",
+    "Title": "Share a Schedule & Task Details with a Visio Gantt Chart ",
+    "Description": "",
+    "Url": "hhttps://support.office.com/en-us/client/3b85674a-9b85-40cf-b5a8-b6413c1ebb3a?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+        {
+    "Id": "413c0b5a-0d52-4ace-af85-8b9bf115bbbf",
+    "Title": "Work Together on Visio Drawings",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/413c0b5a-0d52-4ace-af85-8b9bf115bbbf?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+        {
+    "Id": "95f38851-84ee-4cad-a931-3f86b3a554e0",
+    "Title": "Save Diagrams to Sharepoint",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/95f38851-84ee-4cad-a931-3f86b3a554e0?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
   ]
