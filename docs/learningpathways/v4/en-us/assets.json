@@ -42,5 +42,38 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+    {
+    "Id": "08cce46e-d5f2-460a-86c3-679c32dca94a",
+    "Title": "Use Visio Viewer to View/Print Drawings",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/08cce46e-d5f2-460a-86c3-679c32dca94a?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+      {
+    "Id": "5adf808d-4c0c-494c-bf89-13930bb4274e",
+    "Title": "Reduce/Enlarge Drawing when you Print",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/5adf808d-4c0c-494c-bf89-13930bb4274e?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+      {
+    "Id": "https://support.office.com/en-us/client/23d9bf80-6eff-4f46-aeaf-c35d14bee2be?embed=true&ns=trainingservices&version=1",
+    "Title": "Change the Page Orientation",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/23d9bf80-6eff-4f46-aeaf-c35d14bee2be?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
   ]
