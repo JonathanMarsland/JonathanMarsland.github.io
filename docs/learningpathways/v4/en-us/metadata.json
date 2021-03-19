@@ -315,7 +315,7 @@
               "TechnologyId": "1001",
               "SubjectId": null,
               "Source": "Microsoft",
-              "SubCategories": [],
+              "SubCategories": []
             },
               {
               "Id": "1004",
@@ -324,7 +324,7 @@
               "TechnologyId": "1001",
               "SubjectId": null,
               "Source": "Microsoft",
-              "SubCategories": [],
+              "SubCategories": []
             }
           ]
         }
