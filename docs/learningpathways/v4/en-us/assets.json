@@ -108,5 +108,49 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+          {
+    "Id": "79c1ea54-a9a6-46ce-a4ca-798fa51c7f01",
+    "Title": "Add Text to a Page",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/79c1ea54-a9a6-46ce-a4ca-798fa51c7f01?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+          {
+    "Id": "11027d0c-c576-4112-8b09-f55b1c32928f",
+    "Title": "Add, Edit, Move, or Rotate Text",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/11027d0c-c576-4112-8b09-f55b1c32928f?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+          {
+    "Id": "27b8081c-42ba-437c-9783-0d52917c7bc3",
+    "Title": "Add and Edit Connector Text",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/27b8081c-42ba-437c-9783-0d52917c7bc3?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+          {
+    "Id": "0f6befc2-feb2-4ee3-bf2a-ac8b3d293763",
+    "Title": "Format Text in Visio Drawing",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/0f6befc2-feb2-4ee3-bf2a-ac8b3d293763?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
   ]
