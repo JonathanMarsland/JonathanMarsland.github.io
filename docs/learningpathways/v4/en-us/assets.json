@@ -152,5 +152,49 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+            {
+    "Id": "fa448a47-88ef-49e3-a7ff-407bb694cb1c",
+    "Title": "Apply a professional look to your drawings with themes",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/fa448a47-88ef-49e3-a7ff-407bb694cb1c?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+            {
+    "Id": "a3056d0d-9662-46d3-a120-4ca41bdfa216",
+    "Title": "Create a custom theme",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/a3056d0d-9662-46d3-a120-4ca41bdfa216?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+            {
+    "Id": "fa42a92f-019d-4baa-940e-e477b9b9dfeb",
+    "Title": "How to use Colour by Value",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/fa42a92f-019d-4baa-940e-e477b9b9dfeb?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+            {
+    "Id": "a0985958-33e8-4733-95f1-8975dac60eae",
+    "Title": "Fill a shape with a colour, gradient, or pattern",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/a0985958-33e8-4733-95f1-8975dac60eae?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
   ]
