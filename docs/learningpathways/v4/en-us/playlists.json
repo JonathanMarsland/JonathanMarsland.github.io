@@ -1,6 +1,6 @@
 [
     {
-    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+    "Id": "1",
     "Title": "Visio Quick Start",
     "Image": "images/categories/visio.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -20,7 +20,7 @@
     ]
   },
         {
-    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5746",
+    "Id": "2",
     "Title": "Print",
     "Image": "images/categories/visio.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
