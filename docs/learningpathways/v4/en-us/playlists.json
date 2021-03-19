@@ -1,22 +1,2 @@
 [
-    {
-    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-    "Title": "Visio Quick Start",
-    "Image": "images/categories/visio.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "1001",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "CatId": "4002",
-    "Description": "Get started with Visio.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "75a50ce3-6f12-4cf6-9b96-5e2026b8a3fe",
-      "2b9cb32f-98fe-49ed-bd6a-d763e70e667c",
-      "15412a4f-c59a-4fe0-8dd4-d466e6250137",
-      "4f7a008d-9226-45c4-a5a5-6d34f24c4750"
-    ]
-  }
   ]
