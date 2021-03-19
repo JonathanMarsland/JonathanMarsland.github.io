@@ -37,5 +37,24 @@
       "5adf808d-4c0c-494c-bf89-13930bb4274e",
       "23d9bf80-6eff-4f46-aeaf-c35d14bee2be"
      ]
+  },
+    {
+    "Id": "3",
+    "Title": "Share",
+    "Image": "images/categories/visio.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb08",
+    "Description": "Print in Visio",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+"3b85674a-9b85-40cf-b5a8-b6413c1ebb3a",
+"413c0b5a-0d52-4ace-af85-8b9bf115bbbf",
+"95f38851-84ee-4cad-a931-3f86b3a554e0"
+     ]
   }  
  ]
