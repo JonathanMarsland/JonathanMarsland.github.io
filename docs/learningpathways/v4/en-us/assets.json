@@ -361,5 +361,71 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+   {
+    "Id": "9acfe781-ae7e-43e5-ad69-9f3f89d0cf7c",
+    "Title": "Create a shape",
+    "Description": "https://support.office.com/en-us/client/9acfe781-ae7e-43e5-ad69-9f3f89d0cf7c?embed=true&ns=trainingservices&version=1",
+    "Url": "",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+    "Id": "8b74915c-6ae4-4051-89f2-c1972bd62c87",
+    "Title": "Edit a master shape",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/8b74915c-6ae4-4051-89f2-c1972bd62c87?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+    "Id": "e618442e-f0d0-42a4-be21-4cff36d726d3",
+    "Title": "Format a shape in Visio",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/e618442e-f0d0-42a4-be21-4cff36d726d3?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+    "Id": "56f7ca25-9490-4487-a4e5-15ca4e6bbe50",
+    "Title": "Shape basics: resize, format, move and add text to shapes ",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/56f7ca25-9490-4487-a4e5-15ca4e6bbe50?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+    "Id": "2e468457-1059-49d3-8955-32b2527cce98",
+    "Title": "Use the Shapes window to organize and find shapes",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/2e468457-1059-49d3-8955-32b2527cce98?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+    "Id": "e61f432b-998c-461a-b99c-c6fbcc5c62e5",
+    "Title": "Use layers to set properties for multiple shapes",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/e61f432b-998c-461a-b99c-c6fbcc5c62e5?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
   ]
