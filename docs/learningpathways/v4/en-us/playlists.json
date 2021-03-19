@@ -6,12 +6,12 @@
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "1001",
-    "SubjectId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb07",
     "Description": "Get started with Visio.",
     "StatusTagId": "",
-    "StatusNote": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
     "Assets": [
       "75a50ce3-6f12-4cf6-9b96-5e2026b8a3fe",
       "2b9cb32f-98fe-49ed-bd6a-d763e70e667c",
@@ -33,9 +33,13 @@
     "StatusTagId": "",
     "StatusNote": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "Assets": [
+      "75a50ce3-6f12-4cf6-9b96-5e2026b8a3fe",
+      "2b9cb32f-98fe-49ed-bd6a-d763e70e667c",
+      "15412a4f-c59a-4fe0-8dd4-d466e6250137",
+      "4f7a008d-9226-45c4-a5a5-6d34f24c4750",
       "08cce46e-d5f2-460a-86c3-679c32dca94a",
       "5adf808d-4c0c-494c-bf89-13930bb4274e",
       "23d9bf80-6eff-4f46-aeaf-c35d14bee2be"
-        ]
+     ]
   }  
  ]
