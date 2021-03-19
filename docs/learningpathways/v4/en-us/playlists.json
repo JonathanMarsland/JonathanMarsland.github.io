@@ -96,5 +96,36 @@
 "fa42a92f-019d-4baa-940e-e477b9b9dfeb",
 "a0985958-33e8-4733-95f1-8975dac60eae"
      ]
+  },
+                {
+    "Id": "6",
+    "Title": "Pages",
+    "Image": "images/categories/visio.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb09",
+    "Description": "Format Colour and Themes",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+"6d5d451a-f46d-4fd5-a359-1032672a1e7c",
+"81502ef3-6cac-423e-b4f1-1c19a5126e70",
+"05c24456-67bf-47f7-b5dc-d5caa9974f19",
+"361b4dab-d72a-489c-854d-58caef39da6a",
+"bf5c5262-0688-4306-a1ac-748e406b0e4f",
+"14d5b04b-2894-4d4e-9718-a0d86f53ff75",
+"fbe35298-47e4-4db9-97fe-d3766d9ae727",
+"be705c73-e01a-4d1d-9840-e9106057b547",
+"9faf9f56-6c4c-44ac-98c2-4f942ded00ba",
+"8774ff39-c24d-4c03-a6ff-934a9e770cb9",
+"546fd424-7685-47da-bf9c-e199b8fdca53",
+"98fb5a5a-baab-41f6-b838-67c031ffa656",
+"94dadb54-f6b1-45f5-9795-c3ec2a1f8671",
+"9953bb53-26bf-4995-8c96-ef8674c16c15",
+"3f260f1e-d68b-4d98-b0d3-dcabca9d0dd2"
+     ]
   }
  ]
