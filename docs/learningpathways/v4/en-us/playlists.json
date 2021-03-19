@@ -48,7 +48,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb08",
-    "Description": "Print in Visio",
+    "Description": "Share in Visio",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -67,7 +67,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb09",
-    "Description": "Print in Visio",
+    "Description": "Format Text",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
@@ -75,6 +75,26 @@
 "11027d0c-c576-4112-8b09-f55b1c32928f",
 "27b8081c-42ba-437c-9783-0d52917c7bc3",
 "0f6befc2-feb2-4ee3-bf2a-ac8b3d293763"
+     ]
+  },
+            {
+    "Id": "5",
+    "Title": "Colour and Themes",
+    "Image": "images/categories/visio.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb09",
+    "Description": "Format Colour and Themes",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+"fa448a47-88ef-49e3-a7ff-407bb694cb1c",
+"a3056d0d-9662-46d3-a120-4ca41bdfa216",
+"fa42a92f-019d-4baa-940e-e477b9b9dfeb",
+"a0985958-33e8-4733-95f1-8975dac60eae"
      ]
   }
  ]
