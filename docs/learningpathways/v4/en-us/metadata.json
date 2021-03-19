@@ -308,6 +308,15 @@
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": [
+                          {
+              "Id": "4002",
+              "Name": "Getting Started",
+              "Image": "images/categories/visio.png",
+              "TechnologyId": "1001",
+              "SubjectId": null,
+              "Source": "Microsoft",
+              "SubCategories": []
+            },
            {
               "Id": "4000",
               "Name": "Collaborate",
