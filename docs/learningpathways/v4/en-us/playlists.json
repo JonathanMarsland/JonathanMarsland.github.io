@@ -19,7 +19,7 @@
       "4f7a008d-9226-45c4-a5a5-6d34f24c4750"
     ]
   },
-        {
+  {
     "Id": "2",
     "Title": "Print",
     "Image": "images/categories/visio.png",
@@ -33,10 +33,9 @@
     "StatusTagId": "",
     "StatusNote": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "Assets": [
-"08cce46e-d5f2-460a-86c3-679c32dca94a",
-"5adf808d-4c0c-494c-bf89-13930bb4274e",
-"23d9bf80-6eff-4f46-aeaf-c35d14bee2be"
-    ]
-  }
-    
+      "08cce46e-d5f2-460a-86c3-679c32dca94a",
+      "5adf808d-4c0c-494c-bf89-13930bb4274e",
+      "23d9bf80-6eff-4f46-aeaf-c35d14bee2be"
+        ]
+  }  
  ]
