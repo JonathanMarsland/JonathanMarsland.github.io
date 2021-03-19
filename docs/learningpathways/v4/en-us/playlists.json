@@ -127,5 +127,27 @@
 "9953bb53-26bf-4995-8c96-ef8674c16c15",
 "3f260f1e-d68b-4d98-b0d3-dcabca9d0dd2"
      ]
+  },
+                    {
+    "Id": "7",
+    "Title": "Basics",
+    "Image": "images/categories/visio.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb10",
+    "Description": "Basic Shapes",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+"9acfe781-ae7e-43e5-ad69-9f3f89d0cf7c",
+"8b74915c-6ae4-4051-89f2-c1972bd62c87",
+"e618442e-f0d0-42a4-be21-4cff36d726d3",
+"56f7ca25-9490-4487-a4e5-15ca4e6bbe50",
+"2e468457-1059-49d3-8955-32b2527cce98",
+"e61f432b-998c-461a-b99c-c6fbcc5c62e5"
+     ]
   }
  ]
