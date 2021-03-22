@@ -482,5 +482,94 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+    {
+    "Id": "5669491f-9fce-4676-81f8-ef4553788416",
+    "Title": "Edit connector lines, arrows, or points",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/5669491f-9fce-4676-81f8-ef4553788416?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "eaa045c8-5ce9-4d4b-bd30-bb87dc8ac65a",
+    "Title": "Add connectors between shapes",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/eaa045c8-5ce9-4d4b-bd30-bb87dc8ac65a?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "1a5516db-0212-4352-90dd-fc9cfd4018ed",
+    "Title": "Add or remove connector line jumps",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/1a5516db-0212-4352-90dd-fc9cfd4018ed?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "48f47591-b9d5-4e6f-9203-5b34ce09a5e9",
+    "Title": "Create a custom connector",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/48f47591-b9d5-4e6f-9203-5b34ce09a5e9?embed=true&ns=trainingservices&version=1
+",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "27b8081c-42ba-437c-9783-0d52917c7bc3",
+    "Title": "Add and edit connector text",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/27b8081c-42ba-437c-9783-0d52917c7bc3?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "c55370ae-a3c3-4468-9232-b32604f7252f",
+    "Title": "Glue or unglue connectors",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/c55370ae-a3c3-4468-9232-b32604f7252f?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "eb6e6348-f1e1-4229-b711-09a42ad8e02c",
+    "Title": "Flip or reverse a shape",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/eb6e6348-f1e1-4229-b711-09a42ad8e02c?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "76386943-d870-4492-9d57-b3144f3cf558",
+    "Title": "Rotate lines",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/76386943-d870-4492-9d57-b3144f3cf558?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
   ]
