@@ -427,5 +427,60 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+   {
+    "Id": "e8be8df8-89a6-4397-8ffd-b08bb5f2b6e8",
+    "Title": "Find 3D shapes and stencils",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/e8be8df8-89a6-4397-8ffd-b08bb5f2b6e8?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+    "Id": "0475ddea-2a0a-4dec-ab8c-7dda9e63bca9",
+    "Title": "Find more shapes and stencils",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/0475ddea-2a0a-4dec-ab8c-7dda9e63bca9?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+    "Id": "a4c2235c-677d-4117-9673-1fef0a0ee22f",
+    "Title": "Create, save, and share custom stencils",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/a4c2235c-677d-4117-9673-1fef0a0ee22f?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+    "Id": "74bbdce1-4872-4d5b-af4c-e93fa23f7008",
+    "Title": "Import downloaded stencils",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/74bbdce1-4872-4d5b-af4c-e93fa23f7008?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+ {
+    "Id": "8f27d068-d236-404d-8244-6f81c4d0b80b",
+    "Title": "Add a stencil to a template in Visio",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/8f27d068-d236-404d-8244-6f81c4d0b80b?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
   ]
