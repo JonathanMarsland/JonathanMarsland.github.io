@@ -149,5 +149,26 @@
 "2e468457-1059-49d3-8955-32b2527cce98",
 "e61f432b-998c-461a-b99c-c6fbcc5c62e5"
      ]
+  },
+                    {
+    "Id": "8",
+    "Title": "Stencils",
+    "Image": "images/categories/visio.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb10",
+    "Description": "Stencils",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+        "e8be8df8-89a6-4397-8ffd-b08bb5f2b6e8",
+        "0475ddea-2a0a-4dec-ab8c-7dda9e63bca9",
+        "a4c2235c-677d-4117-9673-1fef0a0ee22f",
+        "74bbdce1-4872-4d5b-af4c-e93fa23f7008",
+        "8f27d068-d236-404d-8244-6f81c4d0b80b"
+     ]
   }
  ]
