@@ -570,5 +570,93 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+    {
+    "Id": "09272394-5243-4e1b-bcfa-425a8b4d1ce2",
+    "Title": "Add data to shapes",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/09272394-5243-4e1b-bcfa-425a8b4d1ce2?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "05264f86-4948-4132-8b4a-91636e6c9a7e",
+    "Title": "Add data sets to shapes",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/05264f86-4948-4132-8b4a-91636e6c9a7e?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "8e142a9b-3d73-429a-809f-4832258801d2",
+    "Title": "Importing data into Visio, an overview",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/8e142a9b-3d73-429a-809f-4832258801d2?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "d174b3fd-3079-42fd-81e8-2dbf8d38bb03",
+    "Title": "Import data to shapes in your drawing",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/d174b3fd-3079-42fd-81e8-2dbf8d38bb03?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "7b438c66-dfcc-4931-af85-05e5aa9bf929",
+    "Title": "Data graphics, an overview",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/7b438c66-dfcc-4931-af85-05e5aa9bf929?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "85de05e0-fff8-4c7a-bd62-d3872087a03b",
+    "Title": "How to use data bars",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/85de05e0-fff8-4c7a-bd62-d3872087a03b?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "85a2863a-90cf-4a19-acb8-a3216cac4b7a",
+    "Title": "How to use icon sets ",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/85a2863a-90cf-4a19-acb8-a3216cac4b7a?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+{
+    "Id": "6e006f6b-b6ec-474a-9ae5-6533b01e70ba",
+    "Title": "How to use text callout data graphics",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/6e006f6b-b6ec-474a-9ae5-6533b01e70ba?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "1001",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
   ]
